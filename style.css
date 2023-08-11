@@ -1,0 +1,25 @@
+/*.mar1{
+	display: flex;
+	justify-content: flex-start;
+	width: 100px;
+	height: 100vh
+}
+.mar2{
+	display: flex;
+	justify-content: flex-end;
+}*/
+.container{
+	display: flex
+}
+
+.first_part{
+	width: 50%;
+	height: 50px;
+	background-color: green
+}
+
+.box1{
+	width: 100px;
+	height: 50px;
+	background-color: black
+}
